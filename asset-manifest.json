@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iki_Asamali_Giris_Uygulamasi/static/css/main.91d3042b.css",
+    "main.js": "/iki_Asamali_Giris_Uygulamasi/static/js/main.0ca02022.js",
+    "static/js/453.1eb07452.chunk.js": "/iki_Asamali_Giris_Uygulamasi/static/js/453.1eb07452.chunk.js",
+    "index.html": "/iki_Asamali_Giris_Uygulamasi/index.html",
+    "main.91d3042b.css.map": "/iki_Asamali_Giris_Uygulamasi/static/css/main.91d3042b.css.map",
+    "main.0ca02022.js.map": "/iki_Asamali_Giris_Uygulamasi/static/js/main.0ca02022.js.map",
+    "453.1eb07452.chunk.js.map": "/iki_Asamali_Giris_Uygulamasi/static/js/453.1eb07452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d3042b.css",
+    "static/js/main.0ca02022.js"
+  ]
+}
